@@ -5,4 +5,5 @@ rockyou.txt  Common passwordlist
 
 
 ```bash
-~$ wget https://github.com/Madhava-mng/RockYou.txt/raw/main/rockyou.txt.zip```
+~$ wget https://github.com/Madhava-mng/RockYou.txt/raw/main/rockyou.txt.zip
+```
