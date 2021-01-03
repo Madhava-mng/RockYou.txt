@@ -1,10 +1,10 @@
 --Read--
-+-------------------------------------[NOTE]-----------------------------------------+
-|                                                                                    |
-|    [#] It is zip compresed. Some Times it return error, so                         |
-|        Kindly visite https://github.com/Madhava-mng/RockYou.txt/rockyou.txt.zip    |
-|        To get zip compressed                                                       |
-|                                                                                    |
-|    [#] Download via wget utils                                                     |
-|    [#] ~$ wget https://github.com/Madhava-mng/RockYou.txt/raw/main/rockyou.txt.zip |
-+------------------------------------------------------------------------------------+
++----------------------------------[NOTE]-------------------------------------+
+|                                                                             |
+|  [#] It is zip compresed. Some Times it return error, so                    |
+|      Kindly visit https://github.com/Madhava-mng/RockYou.txt/rockyou.txt.zip|
+|      To get zip compressed                                                  |
+|                                                                             |
+|  [#] Download via wget utils                                                |
+|  $ wget https://github.com/Madhava-mng/RockYou.txt/raw/main/rockyou.txt.zip |
++-----------------------------------------------------------------------------+
